@@ -13,5 +13,10 @@ namespace SSM_Zero_Proxy
             // Init Lib
             return;
         }
+
+        public static void Elliptical_load()
+        {
+            return;
+        }
     }
 }
