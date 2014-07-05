@@ -1,0 +1,4 @@
+c:\users\jmwmacpro\documents\visual studio 2013\Projects\SSM-Zero-Proxy\SSM-Zero-Proxy\bin\Debug\SSM-Zero-Proxy.dll
+c:\users\jmwmacpro\documents\visual studio 2013\Projects\SSM-Zero-Proxy\SSM-Zero-Proxy\bin\Debug\SSM-Zero-Proxy.pdb
+c:\users\jmwmacpro\documents\visual studio 2013\Projects\SSM-Zero-Proxy\SSM-Zero-Proxy\obj\Debug\SSM-Zero-Proxy.dll
+c:\users\jmwmacpro\documents\visual studio 2013\Projects\SSM-Zero-Proxy\SSM-Zero-Proxy\obj\Debug\SSM-Zero-Proxy.pdb
